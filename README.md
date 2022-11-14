@@ -1,4 +1,4 @@
-![Docker General View](https://github.com/amsayeed/Docker/edit/main/Screenshot 2022-11-14 at 6.19.43 PM.png?raw=true)
+![Docker General View](https://github.com/amsayeed/Docker/blob/main/docker.png?raw=true)
 # Docker Fundamnetals
  Docker Course Repo
 
